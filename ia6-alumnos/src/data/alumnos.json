@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellidos": "García López",
+    "promocion": "2024/2025",
+    "ciclo": "DAW",
+    "urlImagen": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "nombre": "Juan",
+    "apellidos": "Martínez Ruiz",
+    "promocion": "2024/2025",
+    "ciclo": "SMX",
+    "urlImagen": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 3,
+    "nombre": "María",
+    "apellidos": "Sánchez Torres",
+    "promocion": "2023/2024",
+    "ciclo": "DAW",
+    "urlImagen": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "id": 4,
+    "nombre": "Pedro",
+    "apellidos": "Fernández Gómez",
+    "promocion": "2024/2025",
+    "ciclo": "ARI",
+    "urlImagen": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "id": 5,
+    "nombre": "Laura",
+    "apellidos": "Díaz Moreno",
+    "promocion": "2023/2024",
+    "ciclo": "DAW",
+    "urlImagen": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": 6,
+    "nombre": "Carlos",
+    "apellidos": "Rodríguez Pérez",
+    "promocion": "2024/2025",
+    "ciclo": "IEA",
+    "urlImagen": "https://i.pravatar.cc/150?img=6"
+  },
+  {
+    "id": 7,
+    "nombre": "Elena",
+    "apellidos": "Jiménez Castro",
+    "promocion": "2023/2024",
+    "ciclo": "SMX",
+    "urlImagen": "https://i.pravatar.cc/150?img=7"
+  },
+  {
+    "id": 8,
+    "nombre": "David",
+    "apellidos": "Morales Vega",
+    "promocion": "2024/2025",
+    "ciclo": "DAW",
+    "urlImagen": "https://i.pravatar.cc/150?img=8"
+  },
+  {
+    "id": 9,
+    "nombre": "Sara",
+    "apellidos": "Romero Muñoz",
+    "promocion": "2022/2023",
+    "ciclo": "DAW",
+    "urlImagen": "https://i.pravatar.cc/150?img=9"
+  },
+  {
+    "id": 10,
+    "nombre": "Miguel",
+    "apellidos": "Navarro Gil",
+    "promocion": "2023/2024",
+    "ciclo": "ARI",
+    "urlImagen": "https://i.pravatar.cc/150?img=10"
+  }
+]
