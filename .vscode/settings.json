@@ -1,0 +1,7 @@
+{
+  "css.validate": false,              // ← Desactiva validación CSS
+  "css.lint.unknownAtRules": "ignore", // ← Ignora reglas @ desconocidas
+  "files.associations": {
+    "*.css": "tailwindcss"             // ← Asocia .css con Tailwind
+  }
+}
